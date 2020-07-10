@@ -6,6 +6,10 @@ This is useful when you don't want to compress the content on the fly since it a
 ## Usage
 Clone the repository and run the following command using CLI (Node.js must be installed in your machine):
 ```
+npm install
+```
+then run:
+```
 node index.js -s ./my-folder
 ```
 
