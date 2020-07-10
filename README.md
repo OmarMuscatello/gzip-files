@@ -4,7 +4,7 @@ This CLI tool will help you creating a Gzip version of web-app static files (HTM
 This is useful when you don't want to compress the content on the fly since it adds load to the CPU of the server.
 
 ## Usage
-Clone the repository and run the following command using CLI (Node.js must be installed in your machine):
+Clone the repository and run the following command from the `src` folder using CLI (Node.js must be installed in your machine):
 ```
 npm install
 ```
