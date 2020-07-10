@@ -1,0 +1,27 @@
+{
+  "name": "gzip-files",
+  "version": "1.0.0",
+  "description": "Create gz files for static web-apps",
+  "main": "index.js",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "gzipme": "^0.1.2",
+    "yargs": "^15.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarMuscatello/gzip-files.git"
+  },
+  "keywords": [
+    "gzip",
+    "gz",
+    "static",
+    "web-app"
+  ],
+  "author": "Omar Muscatello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmarMuscatello/gzip-files/issues"
+  },
+  "homepage": "https://github.com/OmarMuscatello/gzip-files#readme"
+}
